@@ -2,9 +2,8 @@
 
 Simple node.js scripts that can convert images to webp or to png
 
-> [!TIP]:
-> webp script will convert: **jpg, jpeg, png, webp** formats to **webp**
-> png script will convert: **jpg, jpeg, png, gif, webp** formats to **png**
+- > webp script will convert: **jpg, jpeg, png, webp** formats to **webp**
+- > png script will convert: **jpg, jpeg, png, gif, webp** formats to **png**
 
 ## Setup
 
